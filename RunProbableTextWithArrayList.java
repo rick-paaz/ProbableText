@@ -19,7 +19,7 @@ public class RunProbableTextWithArrayList {
     System.out.print("How many letters? ");
     int letters = keyboard.nextInt();
 
-    RunProbableTextWithArrayList rw = new RunProbableTextWithArrayList(book, ngramLength);
+    ProbableTextWithArrayList rw = new ProbableTextWithArrayList(book, ngramLength);
 
     System.out.println();
     
