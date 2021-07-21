@@ -1,17 +1,6 @@
      SUN TZU ON THE ART OF WAR 
 THE OLDEST MILITARY TREATISE IN THE WORLD 
 
-Translated from the Chinese 
-By LIONEL GILES, M.A. (1910)
-
-
-This is the basic text of Sun Tzu on the Art of War.  It was
-extracted from Mr. Giles' complete work as titled above.  The
-commentary itself, which, of course includes this work embedded
-within it, has been released as suntzu10.txt (or suntzu10.zip).
-This is being released only as an adjunct to that work, which
-contains a wealth of commentary upon this text.
-
 
 I. LAYING PLANS
 
@@ -1686,8 +1675,4 @@ under the Yin.
 wise general who will use the highest intelligence of
 the army for purposes of spying and thereby they achieve
 great results.  Spies are a most important element in water,
-because on them depends an army's ability to move.
-
-
-[END - Sun Tzu on the Art of War, text-only]
-
+because on them depends an army's ability to move. 
